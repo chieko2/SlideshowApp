@@ -7,14 +7,21 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		421BB69D205BB6BD00042E81 /* cyclamen perisicum 6.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 421BB69C205BB6BD00042E81 /* cyclamen perisicum 6.JPG */; };
+		421BB69F205BB6DA00042E81 /* 01Anemone coronaria 2のコピー.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 421BB69E205BB6DA00042E81 /* 01Anemone coronaria 2のコピー.jpg */; };
+		421BB6A1205BB6ED00042E81 /* 02Adonis20100269.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 421BB6A0205BB6ED00042E81 /* 02Adonis20100269.jpg */; };
 		4237CADB205AAD7F002A4E30 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4237CADA205AAD7F002A4E30 /* AppDelegate.swift */; };
 		4237CADD205AAD7F002A4E30 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4237CADC205AAD7F002A4E30 /* ViewController.swift */; };
 		4237CAE0205AAD7F002A4E30 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4237CADE205AAD7F002A4E30 /* Main.storyboard */; };
 		4237CAE2205AAD7F002A4E30 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4237CAE1205AAD7F002A4E30 /* Assets.xcassets */; };
 		4237CAE5205AAD7F002A4E30 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4237CAE3205AAD7F002A4E30 /* LaunchScreen.storyboard */; };
+		423AF2832063875700380436 /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 423AF2822063875700380436 /* ResultViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		421BB69C205BB6BD00042E81 /* cyclamen perisicum 6.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "cyclamen perisicum 6.JPG"; sourceTree = "<group>"; };
+		421BB69E205BB6DA00042E81 /* 01Anemone coronaria 2のコピー.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "01Anemone coronaria 2のコピー.jpg"; sourceTree = "<group>"; };
+		421BB6A0205BB6ED00042E81 /* 02Adonis20100269.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 02Adonis20100269.jpg; sourceTree = "<group>"; };
 		4237CAD7205AAD7F002A4E30 /* SlideShowApp2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SlideShowApp2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4237CADA205AAD7F002A4E30 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4237CADC205AAD7F002A4E30 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -22,6 +29,7 @@
 		4237CAE1205AAD7F002A4E30 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4237CAE4205AAD7F002A4E30 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4237CAE6205AAD7F002A4E30 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		423AF2822063875700380436 /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +48,9 @@
 			children = (
 				4237CAD9205AAD7F002A4E30 /* SlideShowApp2 */,
 				4237CAD8205AAD7F002A4E30 /* Products */,
+				421BB69C205BB6BD00042E81 /* cyclamen perisicum 6.JPG */,
+				421BB69E205BB6DA00042E81 /* 01Anemone coronaria 2のコピー.jpg */,
+				421BB6A0205BB6ED00042E81 /* 02Adonis20100269.jpg */,
 			);
 			sourceTree = "<group>";
 		};
@@ -60,6 +71,7 @@
 				4237CAE1205AAD7F002A4E30 /* Assets.xcassets */,
 				4237CAE3205AAD7F002A4E30 /* LaunchScreen.storyboard */,
 				4237CAE6205AAD7F002A4E30 /* Info.plist */,
+				423AF2822063875700380436 /* ResultViewController.swift */,
 			);
 			path = SlideShowApp2;
 			sourceTree = "<group>";
@@ -125,7 +137,10 @@
 			files = (
 				4237CAE5205AAD7F002A4E30 /* LaunchScreen.storyboard in Resources */,
 				4237CAE2205AAD7F002A4E30 /* Assets.xcassets in Resources */,
+				421BB69D205BB6BD00042E81 /* cyclamen perisicum 6.JPG in Resources */,
 				4237CAE0205AAD7F002A4E30 /* Main.storyboard in Resources */,
+				421BB69F205BB6DA00042E81 /* 01Anemone coronaria 2のコピー.jpg in Resources */,
+				421BB6A1205BB6ED00042E81 /* 02Adonis20100269.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -138,6 +153,7 @@
 			files = (
 				4237CADD205AAD7F002A4E30 /* ViewController.swift in Sources */,
 				4237CADB205AAD7F002A4E30 /* AppDelegate.swift in Sources */,
+				423AF2832063875700380436 /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
